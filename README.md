@@ -3,7 +3,7 @@ DBC_phase3
 
 Phase 3 focuses on Rails and Test Driven Development. 
 
-###Link to some DBC_phase2 challenges:
+###Links to some DBC_phase2 challenges:
 
 RSpec - Bank Account
 
